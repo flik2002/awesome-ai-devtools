@@ -185,6 +185,7 @@ AI developer tools primarily operated from a command-line interface.
 | Tool | Good for | Experience | Links |
 | --- | --- | --- | --- |
 | [agenttrace](https://luoyuctl.github.io/agenttrace/) | Local CLI/TUI that turns AI coding agent session logs into cost, token, latency, failure, and health reports. | CLI · Local | [Website](https://luoyuctl.github.io/agenttrace/) / [Docs](https://github.com/luoyuctl/agenttrace#readme) / [Repo](https://github.com/luoyuctl/agenttrace) |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | Free open-source dashboard for monitoring OpenClaw AI agents — token usage, session tracking, 7-day trends, and multi-model support. | Web · Self-hosted | [Repo](https://github.com/flik2002/openclaw-monitor) |
 | [Aider](https://aider.chat/) | Open-source terminal pair programmer that edits tracked files in a local Git repository. | CLI · Local | [Website](https://aider.chat/) / [Docs](https://aider.chat/docs/) / [Repo](https://github.com/Aider-AI/aider) |
 | [Amazon Q Developer](https://aws.amazon.com/q/developer/) | AWS coding assistant with IDE, CLI, and GitHub agents for coding, testing, review, and transformations. | CLI · GitHub app · IDE · Hybrid | [Website](https://aws.amazon.com/q/developer/) / [Docs](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/what-is.html) |
 | [Amp](https://ampcode.com/) | Terminal-centric coding agent with deep codebase context, editor links, and automation-oriented SDK features. | API · CLI · Hybrid | [Website](https://ampcode.com/) / [Docs](https://ampcode.com/manual) |
